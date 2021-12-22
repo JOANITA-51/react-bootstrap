@@ -4,9 +4,11 @@ import Contact from './Contact';
 import About from './About';
 import NoMatch from './NoMatch';
 import Layout from './components/Layout';
+import NavigationBar from './components/NavigationBar';
 function App() {
   return (
     <>
+      <NavigationBar/>
       <Layout>
         <Router>
         <nav>
