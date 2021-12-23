@@ -13,9 +13,9 @@ function HeroSection() {
                 <Button className='btns' buttonSize = 'btn--large' buttonStyle = 'btn--outline'>
                     GET STARTED
                 </Button>
-                <Button className='btns' buttonSize = 'btn--large' buttonStyle = 'btn--primary'>
+                {/* <Button className='btns' buttonSize = 'btn--large' buttonStyle = 'btn--primary'>
                     GET STARTED
-                </Button>
+                </Button> */}
             </div>
         </div>
     )
